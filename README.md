@@ -138,7 +138,7 @@ Combining these would bring the pipeline from 125 MB down to roughly 62 MB.
 │   ├── 03_pruning_distillation_25pct.ipynb
 │   ├── 04_lightglue_integration_attempt.ipynb
 │   ├── 05_lightglue_jit_early_exit_optimization.ipynb
-│   └── 06_nanoglue_exploratory.ipynb
+│
 ├── report/
 │   └── SuperPoint_LightGlue_Optimization_Report_FR.pdf
 ├── requirements.txt
