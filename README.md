@@ -139,8 +139,8 @@ Combining these would bring the pipeline from 125 MB down to roughly 62 MB.
 │   ├── 04_lightglue_integration_attempt.ipynb
 │   ├── 05_lightglue_jit_early_exit_optimization.ipynb
 │
-├── report/
-│   └── SuperPoint_LightGlue_Optimization_Report_FR.pdf
+├── Rapport_EN_final.pdf
+├── rapport_FR_final.pdf
 ├── requirements.txt
 └── README.md
 ```
