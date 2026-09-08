@@ -11,7 +11,7 @@ The project was carried out as part of the **Deep Learning course at Polytech Ni
 
 **[Read the Full Report (PDF, English)](Rapport_EN_final.pdf)**
 
-**[Read the Full Report (PDF, French)](SuperPoint_LightGlue_Optimization_Report_FR.pdf)**
+**[Read the Full Report (PDF, French)](rapport_FR_final.pdf)**
 
 ---
 
