@@ -9,6 +9,8 @@ This repository documents a semester-long individual research project on **compr
 
 The project was carried out as part of the **Deep Learning course at Polytech Nice Sophia (2025)**, under the supervision of **Gaëtan Bahl** (Principal Machine Vision Engineer at NXP), and was **awarded 18/20 at the final presentation**.
 
+**[Read the Full Report (PDF, English)](./report/Rapport_EN_final.pdf)**
+
 **[Read the Full Report (PDF, French)](./report/SuperPoint_LightGlue_Optimization_Report_FR.pdf)**
 
 ---
