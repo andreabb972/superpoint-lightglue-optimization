@@ -141,7 +141,6 @@ Combining these would bring the pipeline from 125 MB down to roughly 62 MB.
 │
 ├── Rapport_EN_final.pdf
 ├── rapport_FR_final.pdf
-├── requirements.txt
 └── README.md
 ```
 
